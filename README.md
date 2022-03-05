@@ -28,7 +28,7 @@ docker-compose exec app php artisan migrate
    "email":"rodrigo@gmail.com",
    "cellphone":"77999267785",
    "cpf":"95732322000",
-   "license_plate":"BA7854215"
+   "license_plate":"BA78543"
  }
  ```
  <h3>Editar um cliente já existente</h3>
@@ -41,7 +41,7 @@ docker-compose exec app php artisan migrate
    "email":"rodrigo@gmail.com",
    "cellphone":"77999267785",
    "cpf":"95732322000",
-   "license_plate":"BA7854215"
+   "license_plate":"BA78542"
  }
  ```
  <h3>Deletar um cliente existente</h3>
